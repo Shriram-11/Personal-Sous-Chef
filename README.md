@@ -65,5 +65,3 @@ SousChef AI Agent
 * [ ] Budget-aware planning
 * [ ] Swiggy MCP integration
 * [ ] Autonomous weekly planning
-
-This is about the length I'd expect from a serious project that's still in the planning stage. It communicates the idea, architecture, tech stack, and roadmap in under a minute of reading.
